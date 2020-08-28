@@ -1,1 +1,1 @@
-
+Best Shop - example site
